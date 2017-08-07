@@ -1,0 +1,27 @@
+{
+  "name": "dili",
+  "version": "0.0.1",
+  "description": "Dili is a framework for future.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phodal/oan-draft.git"
+  },
+  "keywords": [
+    "Dili",
+    "framework",
+    "mvvm"
+  ],
+  "author": "Phodal HUANG",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phodal/oan-draft/issues"
+  },
+  "homepage": "https://github.com/phodal/oan-draft#readme"
+}
