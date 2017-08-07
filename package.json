@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/phodal/oan-draft.git"
+    "url": "git+https://github.com/phodal/dili.git"
   },
   "keywords": [
     "Dili",
@@ -21,7 +21,7 @@
   "author": "Phodal HUANG",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/phodal/oan-draft/issues"
+    "url": "https://github.com/phodal/dili/issues"
   },
-  "homepage": "https://github.com/phodal/oan-draft#readme"
+  "homepage": "https://github.com/phodal/dili#readme"
 }
