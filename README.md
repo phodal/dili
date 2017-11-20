@@ -26,4 +26,9 @@ state, ipc, data bus as so on.
 
 buildin HTTP cache for GET request
 
+Refs
+---
 
+[EventBus](https://github.com/krasimir/EventBus/blob/master/src/EventBus.js)
+
+[Cache](https://github.com/isaacs/node-lru-cache)
